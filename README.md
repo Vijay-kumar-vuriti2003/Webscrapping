@@ -30,6 +30,9 @@ The extracted data is stored in products.csv with the following columns:
 
 Example:
 Book Name,Price,Stock
+
 Wings of fire,$5.00,50
+
 Secret of success,$4.00,10
+
 5 steps to success,3.0,34
