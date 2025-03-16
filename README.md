@@ -3,9 +3,13 @@ Overview:
   This project demonstrates web scraping using Python with requests and BeautifulSoup. The script extracts product information from a sample webpage and stores it in a CSV file.
 Technologies Used:
   1)Python
+  
   2)Requests library for making HTTP requests
+  
   3)BeautifulSoup from bs4 for parsing HTML
+  
   4)Pandas for data manipulation
+  
 How It Works
 >>The script fetches the HTML content of the webpage.
 >>It parses the HTML using BeautifulSoup to extract product details.
